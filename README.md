@@ -9,7 +9,7 @@
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
-
+https://www.youtube.com/watch?v=i9mkAoZ8FNk
 ## Verbal Collaboration
 
 | Student Name | CCID      |
